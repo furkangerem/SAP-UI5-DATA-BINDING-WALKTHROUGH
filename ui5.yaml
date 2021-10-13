@@ -1,0 +1,7 @@
+specVersion: '2.5'
+metadata:
+  name: SAP-UI5-DATA-BINDING
+type: application
+framework:
+  name: SAPUI5
+  version: "1.95.0"
